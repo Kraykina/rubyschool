@@ -1,1 +1,1 @@
-# rubyschool
+# RubySchool lessons.
